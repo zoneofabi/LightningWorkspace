@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+
+.menuButton{
+    background-color: blue;
+    color: yellow;
+    width: 100px;
+    height: 200px;
+}
+
+.ButtonText{
+    font: italic 3em sans-serif;
+    color: aqua;
+    stroke: rgb(169, 0, 235);
+}
